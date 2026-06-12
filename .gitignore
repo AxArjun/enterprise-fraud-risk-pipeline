@@ -1,0 +1,16 @@
+# Data Files
+*.csv
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
