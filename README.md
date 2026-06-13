@@ -290,9 +290,7 @@ enterprise-fraud-risk-pipeline/
 
 ## Executive Summary
 
-SentinEdge is an enterprise fraud risk intelligence platform designed to identify high-risk financial transactions, quantify fraud exposure, and support operational decision-making through machine learning and business intelligence.
-
-The solution analysed 56,962 transactions, identified 98 confirmed fraud cases, achieved 99.85% model accuracy, and estimated potential fraud savings of 8.52K through proactive risk detection and investigation prioritization.
+SentinEdge is an enterprise fraud risk intelligence platform designed to identify high-risk financial transactions, quantify fraud exposure, and support operational decision-making through machine learning and business intelligence. The solution analysed 56,962 transactions, identified 98 confirmed fraud cases, achieved 99.85% model accuracy, and estimated potential fraud savings of 8.52K through proactive risk detection and investigation prioritization.
 ---
 
 ## 👨‍💻 Author
