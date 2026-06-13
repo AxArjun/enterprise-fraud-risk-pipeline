@@ -13,6 +13,13 @@ This platform transitions financial risk frameworks from reactive crisis managem
 * [📓 View Production Machine Learning Pipeline Notebook](./notebooks/Fraud_Detection_Pipeline.ipynb)
 
 ---
+## Dashboard Preview
+
+![Executive Dashboard](assets/executive_dashboard.png)
+
+![Investigation Center](assets/investigation_center.png)
+
+![Model Validation](assets/model_validation.png)
 
 ## 🏛️ System Architecture & Data Topology
 
@@ -72,6 +79,13 @@ Fraud detection presents a highly imbalanced classification problem where fraudu
 * Demonstrated operational viability for transaction monitoring environments.
 
 ---
+## Sample DAX Measures
+
+Potential Fraud Savings =
+[Fraud Loss Value] * 0.80
+
+Fraud Rate % =
+DIVIDE([Fraud Cases], [Transactions Investigated])
 
 ## 📈 Risk Intelligence Dashboard Suite
 
@@ -272,6 +286,11 @@ enterprise-fraud-risk-pipeline/
 * Fraud Risk Forecasting
 * Graph-Based Fraud Network Detection
 
+## Executive Summary
+
+SentinEdge is an enterprise fraud risk intelligence platform designed to identify high-risk financial transactions, quantify fraud exposure, and support operational decision-making through machine learning and business intelligence.
+
+The solution analysed 56,962 transactions, identified 98 confirmed fraud cases, achieved 99.85% model accuracy, and estimated potential fraud savings of 8.52K through proactive risk detection and investigation prioritization.
 ---
 
 ## 👨‍💻 Author
