@@ -17,7 +17,9 @@ This platform transitions financial risk frameworks from reactive crisis managem
 
 ![Executive Dashboard](assets/executive_dashboard.png)
 
+
 ![Investigation Center](assets/investigation_center.png)
+
 
 ![Model Validation](assets/model_validation.png)
 
